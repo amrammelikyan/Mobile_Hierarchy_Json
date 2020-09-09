@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobile_Hierarchy_Json", "Mobile_Hierarchy_Json\Mobile_Hierarchy_Json.csproj", "{CB51E1BF-0DAA-4562-B5B3-9C83ADDA2377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobile_Hierarchy_Json.Library", "Mobile_Hierarchy_Json.Library\Mobile_Hierarchy_Json.Library.csproj", "{189015A4-C6C2-4A9E-8BAD-3699E325B611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB51E1BF-0DAA-4562-B5B3-9C83ADDA2377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB51E1BF-0DAA-4562-B5B3-9C83ADDA2377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB51E1BF-0DAA-4562-B5B3-9C83ADDA2377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB51E1BF-0DAA-4562-B5B3-9C83ADDA2377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189015A4-C6C2-4A9E-8BAD-3699E325B611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189015A4-C6C2-4A9E-8BAD-3699E325B611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189015A4-C6C2-4A9E-8BAD-3699E325B611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189015A4-C6C2-4A9E-8BAD-3699E325B611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9F0873-69F2-4E04-909D-FB949312F384}
+	EndGlobalSection
+EndGlobal
